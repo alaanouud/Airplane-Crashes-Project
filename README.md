@@ -22,13 +22,4 @@ Summary - Brief summary of the case
 Executive Summary
 I started this kernel by just focusing on getting a good understanding of the dataset. The EDA & Visualizations 
 
-Key features of the kernel
 
-
-Text Clustering with K-Means
-
-Text Clustering with 
-
-Summary & Location WordCloud
-
-Location Visualization on World Map
