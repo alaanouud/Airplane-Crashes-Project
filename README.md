@@ -1,25 +1,16 @@
-# Unsupervised-Project
-Flight Crash Investigation
-Finding interesting trends/behaviors while analyzing and perform clustering on the dataset. 
+# Flight Crash Investigation
 
-linkcode
-Flight Crash
+-SDAIA T5 Data Science Bootcamp Unsupervised Project
 
-Info about dataset
-Date - Date of the crash
-Time - Time of the crash
-Location - Location of the crash
-Operator - Airline of the plane
-Flight - Flight no. of the plane
-Route - Route taken by plane
-Type - Type of the plane
-Registration - Unique alphanumeric string to identify the plane
-cn/In - Construction or serial number / Line or fuselage number
-Aboard - Number of people aboard
-Fatalities - Lethal outcome
-Ground - Total ground people killed due to crash.
-Summary - Brief summary of the case
-Executive Summary
-I started this kernel by just focusing on getting a good understanding of the dataset. The EDA & Visualizations 
+[tableau](https://github.com/alaanouud/Unsupervised-Project/blob/main/AirPlane-AlanoudAlmutairi.twbx) 
+
+
+[Final Report](https://github.com/alaanouud/Unsupervised-Project/blob/main/UnsupervisedLearning_Report.pdf) 
+
+[Presentation Slides](https://github.com/alaanouud/Unsupervised-Project/blob/main/Airplane_Crashes_Project.T5-4.pdf)
+
+[Source Code](https://github.com/alaanouud/Unsupervised-Project/blob/main/Airplane_Crashes_Project-T5-4.ipynb) 
+
+
 
 
