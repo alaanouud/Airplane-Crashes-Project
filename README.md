@@ -12,5 +12,9 @@
 [Source Code](https://github.com/alaanouud/Unsupervised-Project/blob/main/Airplane_Crashes_Project-T5-4.ipynb) 
 
 
+Instructor: [Mr. Srinivas Rao](https://www.linkedin.com/in/srinivas-rao-52068382/) 
+
+
+
 
 
